@@ -37,6 +37,9 @@
   padding: 0px 200px;
   gap: 50px;
 }
+.banner-img {
+  margin: 0px 0px -3px 0px;
+}
 .banner-txt-heading {
   color: #272727;
   font-size: 55px;
